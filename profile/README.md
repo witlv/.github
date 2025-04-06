@@ -74,7 +74,7 @@ This is a **functioning microservices architecture** project built to showcase:
 - API design and Laravel Passport auth flow
 - Containerized services (Auth, User, Admin, Mobile)
 - A React Native mobile app with secure auth and navigation
-- A little ✨personality✨ because tech projects don’t have to be dry <i>**(Just literally dry texter, not Don't Repeat Yourself)**</i>
+- A little ✨personality✨ because some people are dry <i>**(Just literally dry texter, not Don't Repeat Yourself)**</i>
 
 ## 🧪 Fun, But Real
 
